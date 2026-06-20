@@ -1,7 +1,7 @@
 # AI_jobs_salary_analysis
-Salary varies with experience level and not job title. 
+1.Salary varies with experience level and not job title and employment type. 
 
-Variations that are plotted:
+2.Variations that are plotted:
 
 -Heatmap: Experience Level vs Remote Ratio
 
@@ -14,7 +14,7 @@ Variations that are plotted:
 -Bar chart: Top 10 Highest Paying Job Title
 
 
-Major Highlights:
+3.Major Highlights:
 
 -In case of remoteness,Executive levels have highest number and more chances of getting remote jobs
 
