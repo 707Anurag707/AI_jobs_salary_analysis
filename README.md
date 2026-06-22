@@ -1,7 +1,9 @@
 # AI_jobs_salary_analysis
-1. Salary varies with experience level and not job title and employment type. 
 
-2. Variations that are plotted:
+# Tools used:
+- Python(Data Cleaning,EDA,Matplotlib plots,Scikit learn model)
+
+# Variations that are plotted(matplotlib):
 
 - Heatmap: Experience Level vs Remote Ratio
 
@@ -13,8 +15,21 @@
 
 - Bar chart: Top 10 Highest Paying Job Title
 
+# machine learning model:
 
-3. Major Highlights:
+- coloumn pipeline, randomforest, mean absolute error
+
+- target(salary)
+
+- variables(experience_level, employment_type, remote_ratio)
+
+# powerBI Dashboard
+
+- Salary variation shown based on location,experience,employment_type etc.
+
+# Major Highlights:
+
+- Salary varies with experience level and not job title and employment type. 
 
 - In case of remoteness,Executive levels have highest number and more chances of getting remote jobs
 
